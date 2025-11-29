@@ -1,11 +1,11 @@
 # EX.-NO-1-B-IMPLEMENTATION-OF-PLAYFAIR-CIPHER
 
-## AIM:
-  To write a C program to implement the Playfair Substitution technique.
-
 | Name    | Janardhan P |
 |---------|-------------|
 | Reg No  | 212224040128|
+
+## AIM:
+  To write a C program to implement the Playfair Substitution technique.
 
 ## DESCRIPTION
 
